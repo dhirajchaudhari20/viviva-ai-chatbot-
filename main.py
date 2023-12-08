@@ -1,6 +1,8 @@
 import openai
 import gradio
 
+##
+##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
 openai.api_key = ""
 
 
@@ -19,7 +21,7 @@ def  vivaGPT(Chat):
 
 
     if 'who made you' in Chat.lower():
-        vivaGPT_reply = "I was invented or created by Dhiraj Chaudhari AND Pragati Bavaskar, Two Students Of Diploma in Computer engineering Of VIVA College of Diploma Engineering  in Virar, Maharastra. However, because I am an AI language model, I exist entirely in the digital realm and can be accessed from anywhere via the internet."
+        vivaGPT_reply = "I was invented or created by Dhiraj Chaudhari , Two Students Of Diploma in Computer engineering Of VIVA College of Diploma Engineering  in Virar, Maharastra. However, because I am an AI language model, I exist entirely in the digital realm and can be accessed from anywhere via the internet."
         messages.append({"role": "assistant", "content": vivaGPT_reply})
     elif 'who are you' in Chat.lower():
         vivaGPT_reply = " I am an Al language model called Viva Al, which is designed to help you with various tasks such as answering questions, providing information, and assistance with tasks. However, I am similar to ChatGPT in the sense that I use state-of-the-art technology to understand natural language and generate responses. Let me know if there is anything I can help you with "
@@ -99,12 +101,1711 @@ def  vivaGPT(Chat):
     elif 'who is dhiraj chaudhari' in Chat.lower():
         vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
         messages.append({"role": "assistant", "content": vivaGPT_reply})
-    elif 'who is pragati bavaskar' in Chat.lower():
-        vivaGPT_reply = 'Pragati Bavaskar is a computer engineering student from Viva College, who along with Dhiraj Chaudhari, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users'
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
         messages.append({"role": "assistant", "content": vivaGPT_reply})
-    elif 'who is pragati' in Chat.lower():
-        vivaGPT_reply = 'Pragati Bavaskar is a computer engineering student from Viva College, who along with Dhiraj Chaudhari, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users'
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
         messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
+    elif 'who is dhiraj' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+ elif 'who is dhiraj chaudhari' in Chat.lower():
+        vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
+        messages.append({"role": "assistant", "content": vivaGPT_reply})
+   
     elif 'who is dhiraj' in Chat.lower():
         vivaGPT_reply = 'Dhiraj Chaudhari is a computer engineering student from Viva College, who along with Pragati Bavaskar, created the Viva AI Module. This AI module is an advanced language model which uses state-of-the-art technology to provide assistance and answer questions to users  '
 
@@ -125,7 +1826,7 @@ viva = gradio.Interface(fn=vivaGPT,
                         ],
 
                         title='  <h1 style=\'font-size: 40px; text-align: center; color: #ff5722; font-family: Arial;\'>Viva AI Assitant</h1>',
-                        description="Crafted with ❤️ by <a href='https://github.com/dhirajviva'><strong>Dhiraj Chaudhari</strong></a>&nbsp;&nbsp;&nbsp;&amp;&amp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/pragati14B'><strong>Pragati Bavaskar</strong><br></a>Visit our <a href='http://www.vivadiploma.org/index.aspx#'>College Website</a> for more information about us.",
+                        description="Crafted with ❤️ by <a href='https://github.com/dhirajviva'><strong>Dhiraj Chaudhari</strong></a>;Visit our <a href='http://www.vivadiploma.org/index.aspx#'>College Website</a> for more information about us.",
                         allow_flagging=False)
 
 
