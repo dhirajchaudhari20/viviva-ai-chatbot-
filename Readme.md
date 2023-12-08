@@ -24,15 +24,13 @@ The Viva AI Chatbot is designed to provide seamless interactions and responses t
 The project structure is organized as follows:
 
 - `main.py`: Main code for chatbot functionality.
-- `data/`: Contains datasets used for training and testing.
-- `utils/`: Utility functions and helper modules.
-- `tests/`: Unit tests and validation scripts.
+
 
 ## Usage
 
 To run the Viva AI Chatbot:
 
-1. Clone this repository: `git clone https://github.com/your-username/viva-ai-chatbot.git`
+1. Clone this repository: `https://github.com/dhirajchaudhari20/viviva-ai-chatbot-.git`
 2. Navigate to the project directory: `cd viva-ai-chatbot`
 3. Run the main script: `python main.py`
 
